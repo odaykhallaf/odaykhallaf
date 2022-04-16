@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyExampleTow</string>
+    <String-array name="color">
+
+        <item>Red</item>
+        <item>Black</item>
+        <item>Blue</item>
+    </String-array>
+</resources>
